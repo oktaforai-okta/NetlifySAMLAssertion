@@ -64,7 +64,7 @@ const MCP_GW_CLIENT_SECRET =
   "AeqjZBrKkIbIJEsZKI_SPq6V33fnc9HZp7brCZ-FmkJPKNsLFeNMO0wKBMu1Fcd1";
 const MCP_GW_IDP_ISSUER_URI = "https://mcp-gateway.saml-assertion";
 const MCP_GW_IDP_ACS_URL =
-  "https://oktaforai.oktapreview.com/sso/saml2/0oaz76avfq1H6RE951d7";
+  "https://okta-ai.atko.rocks/sso/saml2/0oaz76avfq1H6RE951d7";
 const MCP_GW_IDP_AUDIENCE_URI =
   "https://www.okta.com/saml2/service-provider/spiycrxlqvxwbsytnkup/metadata";
 
