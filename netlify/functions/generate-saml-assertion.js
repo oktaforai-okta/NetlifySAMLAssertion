@@ -66,7 +66,7 @@ const MCP_GW_IDP_ISSUER_URI = "https://mcp-gateway.saml-assertion";
 const MCP_GW_IDP_ACS_URL =
   "https://oktaforai.oktapreview.com/sso/saml2/0oaz76avfq1H6RE951d7";
 const MCP_GW_IDP_AUDIENCE_URI =
-  "https://www.okta.com/saml2/service-provider/spiycrxlqvxwbsytnkup/metadata";
+  "https://www.okta.com/saml2/service-provider/spiycrxlqvxwbsytnkup";
 
 function generateSamlId() {
   return `id${uuidv4().replace(/-/g, "")}`;
